@@ -1,0 +1,17 @@
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\bin\Debug\RPN-Calculator.exe.config
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\bin\Debug\RPN-Calculator.exe
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\bin\Debug\RPN-Calculator.pdb
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\bin\Debug\RPN-Calculator.xml
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.enterNumber.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.Form1.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.Resources.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.vbproj.GenerateResource.Cache
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.exe
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.xml
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN-Calculator.pdb
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.input.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.invalidOperation.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.BaseSwitcherForm.resources
+C:\Users\User Name\source\repos\RPN-Calculator\RPN-Calculator\obj\Debug\RPN_Calculator.CustomBaseForm.resources
